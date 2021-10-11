@@ -1,0 +1,3 @@
+[submodule "CVProjekti"]
+	path = CVProjekti
+	url = https://github.com/jelmiz/CV-Game.git
